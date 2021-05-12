@@ -11,11 +11,11 @@ since the sum of both of these subsets is 15, and hence the difference is zero.
 
 ## Code files
 ### Simulated Annealing (SA)
-* [```number-partitioning-simulated-annealing.ipynb```](number-partitioning-simulated-annealing.ipynb): Jupyter notebook containing the Julia implementation of SA
-* ```number-partitioning-pyqubo.ipynb```: Jupyter notebook containing the Python implementation of SA using pyqubo and is useful for cross-checking solutions against the Julia version of SA
-* ```writeup-sa-number-partitioning.pdf```: Write-up containing the pseudocode, approach and analysis of SA
+* [```number-partitioning-simulated-annealing.ipynb```](Simulated-Annealing/number-partitioning-simulated-annealing.ipynb): Jupyter notebook containing the Julia implementation of SA
+* [```number-partitioning-pyqubo.ipynb```](Simulated-Annealing/number-partitioning-pyqubo.ipynb): Jupyter notebook containing the Python implementation of SA using pyqubo and is useful for cross-checking solutions against the Julia version of SA
+* [```writeup-sa-number-partitioning.pdf```](Simulated-Annealing/writeup-sa-number-partitioning.pdf): Write-up containing the pseudocode, approach and analysis of SA
 
 ### QAOA
-* ```number-partitioning-qaoa.ipynb```: Jupyter notebook containing the QAOA class and the Qiskit Aqua implementation 
-* ```number-partitioning-problem-set```: File containing values of the set to partition
-* ```writeup-qaoa-number-partitioning.pdf```: Write-up containing the algorithm, approach and analysis of performance of QAOA with respect to the number of layers
+* [```number-partitioning-qaoa.ipynb```](QAOA/number-partitioning-qaoa.ipynb): Jupyter notebook containing the QAOA class and the Qiskit Aqua implementation 
+* [```number-partitioning-problem-set```](QAOA/number-partitioning-problem-set): File containing values of the set to partition
+* [```writeup-qaoa-number-partitioning.pdf```](QAOA/writeup-qaoa-number-partitioning.pdf): Write-up containing the algorithm, approach and analysis of performance of QAOA with respect to the number of layers
