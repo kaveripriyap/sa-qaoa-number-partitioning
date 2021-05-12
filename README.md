@@ -11,7 +11,7 @@ since the sum of both of these subsets is 15, and hence the difference is zero.
 
 ## Code files
 ### Simulated Annealing (SA)
-* [```number-partitioning-simulated-annealing.ipynb```](Simulated Annealing/number-partitioning-simulated-annealing.ipynb): Jupyter notebook containing the Julia implementation of SA
+* [```number-partitioning-simulated-annealing.ipynb```](number-partitioning-simulated-annealing.ipynb): Jupyter notebook containing the Julia implementation of SA
 * ```number-partitioning-pyqubo.ipynb```: Jupyter notebook containing the Python implementation of SA using pyqubo and is useful for cross-checking solutions against the Julia version of SA
 * ```writeup-sa-number-partitioning.pdf```: Write-up containing the pseudocode, approach and analysis of SA
 
